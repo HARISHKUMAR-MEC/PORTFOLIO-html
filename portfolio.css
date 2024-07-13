@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://t3.ftcdn.net/jpg/06/27/85/70/360_F_627857071_bREuJgK1MTU5YcTPTfgJPOYZ86F1l421.jpg");
+    background-size: cover;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+  }
+   header {
+    background-color:rgb(68, 82, 83);
+    color: rgb(233, 134, 200);
+    padding: 20px;
+  }
+   ul li a {
+    color:burlywood;
+    text-decoration: none;
+  }
+  li{
+    display: inline;
+    margin-right:50px;
+  }
+ 
+ 
+  footer {
+    background-color: rgba(58, 228, 157, 0.753);
+    color: rgb(235, 25, 10);
+    padding: 10px;
+  }
+   #home img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+   #links{
+    padding: 10px;
+  }
+ 
